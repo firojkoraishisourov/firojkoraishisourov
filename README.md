@@ -4,13 +4,10 @@
 <!-- 🎬 Right GIF -->
 <img align="right" height="160" src="https://media4.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" />
 
-<h2 align="left">
-  👋 Hi There!  
-  <br>I'm <b>Firoj Koraishi Sourov</b>  
-  <br>🎓 <b>CSE Student at American International University – Bangladesh (AIUB)</b>  
-  <br>💻 <b>Aspiring Software Engineer | Passionate about Backend Development & AI</b>  
-  <br>📍 From <b>Bogura, Bangladesh</b>
-</h2>
+## 👋 Hi there, I'm **Firoj Koraishi Sourov**
+🎓 **CSE Student at American International University – Bangladesh (AIUB)**  
+💻 **Aspiring Software Engineer | Passionate about Backend Development & AI**  
+📍 From **Bogura, Bangladesh**
 
 ---
 
