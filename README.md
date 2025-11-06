@@ -1,19 +1,16 @@
-<!-- Profile Header Animation -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=Welcome%20to%20My%20Profile!&fontAlign=50&fontAlignY=40&color=gradient&descAlignY=60&fontColor=ffffff" />
+<!-- 🌊 Header Animation -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=Welcome%20to%20My%20Profile!&fontAlign=50&fontAlignY=40&color=gradient&fontColor=ffffff" />
 
-<!-- Right GIF -->
-<img align="right" height="150" src="https://media4.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" />
+<!-- 🎬 Right GIF -->
+<img align="right" height="160" src="https://media4.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" />
 
-### 🐍 GitHub Contribution Snake
-<div align="center">
-  <img src="https://raw.githubusercontent.com/firojkoraishisourov/firojkoraishisourov/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
-## 👋 Hi there, I'm **Firoj Koraishi Sourov**
-🎓 **CSE Student at American International University – Bangladesh (AIUB)**  
-💻 **Aspiring Software Engineer | Passionate about Backend Development & AI**  
-📍 From **Bogura, Bangladesh**
+<h2 align="left">
+  👋 Hi There!  
+  <br>I'm <b>Firoj Koraishi Sourov</b>  
+  <br>🎓 <b>CSE Student at American International University – Bangladesh (AIUB)</b>  
+  <br>💻 <b>Aspiring Software Engineer | Passionate about Backend Development & AI</b>  
+  <br>📍 From <b>Bogura, Bangladesh</b>
+</h2>
 
 ---
 
@@ -25,7 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="35" alt="SQL Server" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="35" alt="VS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="35" alt="Visual Studio" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="Figma" />
 </div>
 
@@ -63,14 +60,12 @@
 
 ---
 
-
-
 ### 🌱 About Me
 - 🎯 Always learning & exploring new technologies  
 - 💡 Interested in **Software Engineering, Algorithms, and AI**  
-- 🧩 Participated in ICPC & active member of **AIUB Computer Club**  
 - ⚡ Fun fact: I’m a huge fan of **Barcelona** and love **spicy biryani** 🍛  
 
 ---
 
+<!-- 🌊 Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" />
