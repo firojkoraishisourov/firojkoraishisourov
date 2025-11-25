@@ -51,9 +51,13 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firojkoraishisourov&layout=compact&langs_count=10&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+  <!-- Top Languages -->
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firojkoraishisourov&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&cache_seconds=7200" />
+
+  <!-- Streak Stats -->
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=firojkoraishisourov&theme=tokyonight&hide_border=false" />
 </div>
+
 
 
 ---
