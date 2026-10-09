@@ -106,13 +106,6 @@ Here are some projects from my software development journey.
   <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=firojkoraishisourov&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
----
-
-## 🗓️ Contribution Activity
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=firojkoraishisourov&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
-</p>
 
 ---
 
