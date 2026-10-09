@@ -10,7 +10,7 @@
   <a href="https://github.com/firojkoraishisourov">
     <img src="https://komarev.com/ghpvc/?username=firojkoraishisourov&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-blue?style=flat-square" alt="Current focus" />
+  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-blue?style=flat-square" alt="Current focus" />
   <img src="https://img.shields.io/badge/Location-Bangladesh-006a4e?style=flat-square" alt="Location" />
 </p>
 
