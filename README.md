@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Firoj Koraishi Sourov
+# 👋 Hi, I'm MD. Firoj Koraishi Sourov
 
 ### Aspiring Software Engineer | Full-Stack Development | AI & Machine Learning
 
